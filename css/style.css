@@ -16,6 +16,27 @@ header h1 {
 header h1 a {
 	transition: .3s;
 }
+.tabel {
+	background-color: #ddd;
+	border-radius: 10px;
+	padding: 20px;
+	color: #180213
+}
+
+table thead tr td {
+	font-weight: bold;
+} 	
+
+table tbody tr .angka {
+	font-weight: bold;
+
+}
+
+.atas h1 a, .atas a {
+	color: #180213;
+	text-decoration: none !important;
+}
+
 header h1 a:hover {
 	color: #F84744;
 }
@@ -129,7 +150,7 @@ section h3::after {
 	bottom: -1px;
 	width:40px;
 	height:4px;
-	background-color: #F84744;
+	background-color: rgb(199, 230, 61);;
 	left: calc(50% - 20px);
 }
 #about p {
@@ -177,6 +198,13 @@ section h3::after {
 	float: left;
 	text-align: center;
 	margin-bottom: 15px;
+}
+.author{
+	font-style: italic;
+}
+.card-title{
+	font-weight: bold;
+	font-size: 1.3em;
 }
 .col-4 img {
 	width:100%;

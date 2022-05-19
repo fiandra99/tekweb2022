@@ -1,0 +1,26 @@
+[
+    {
+        "id":"1",
+        "judul":"Menganalisis Proses Bisnis diKopi Luwak Mataram",
+        "img":"./img/jagongan.jpeg",
+        "Oleh":"Fiandra Badia",
+        "desc":"Ini adalah suatu review tentang sebuah tempat yang saya analisis Proses bisnisnya.",
+        "artikel":"bacaan_1.md"
+    },
+    {
+        "id":"2",
+        "judul":"Hacker Bobol 35 Perusahaan Teknologi Besar, Dapat Hadiah Rp 1,8 Miliar",
+        "img":"https://asset.kompas.com/crops/-Gn7727fivDzG12_Fy6Al1FxQvo=/263x128:1080x673/750x500/data/photo/2020/05/22/5ec746d5589a1.jpg",
+        "Oleh":"Kevin Rizky Pratama",
+        "desc":"Seorang peneliti keamanan bernama Alex Birsan baru-baru ini berhasil meretas lebih dari 35 perusahaan raksasa teknologi.",
+        "artikel":"bacaan_2.md"
+    },
+    {
+        "id":"3",
+        "judul":"Menganalisis Proses Bisnis diKopi Luwak Mataram",
+        "img":"https://akcdn.detik.net.id/visual/2018/01/24/d6eebc70-0f2d-4982-a2ba-e1bf1b8f2854_169.jpeg?w=715&q=90",
+        "Oleh":"Roy Franedya",
+        "desc":"Ini adalah suatu review tentang sebuah tempat yang saya analisis Proses bisnisnya.",
+        "artikel":"bacaan_3.md"
+    }
+]

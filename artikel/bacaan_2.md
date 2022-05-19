@@ -1,0 +1,14 @@
+# Hacker Bobol 35 Perusahaan Teknologi Besar, Dapat Hadiah Rp 1,8 Miliar
+
+---
+
+_Penulis : Kevin Rizky Pratama_
+
+![Gambar Hacker](https://asset.kompas.com/crops/-Gn7727fivDzG12_Fy6Al1FxQvo=/263x128:1080x673/750x500/data/photo/2020/05/22/5ec746d5589a1.jpg)
+
+[Ke Artikel Asli](https://tekno.kompas.com/read/2021/02/15/19310097/hacker-bobol-35-perusahaan-teknologi-besar-dapat-hadiah-rp-1-8-miliar?page=all#page2.)
+
+
+KOMPAS.com - Seorang peneliti keamanan bernama Alex Birsan baru-baru ini berhasil meretas lebih dari 35 perusahaan raksasa teknologi, termasuk Apple, Microsoft, Netflix, PayPal, Shopify, Tesla, Yelp, dan Uber. Dalam melancarkan aksinya, Birsan mengunggah malware ke lokasi penyimpanan milik layanan open source seperti Python Package Index (PyPI), npm, dan RubyGems. Malware tersebut kemudian didistribusikan untuk menembus server internal perusahaan. Teknik peretasan yang dilakukan Birsan terbilang canggih. Pasalnya, malware yang dikirimkan Birsan dapat secara otomatis menyusup ke sistem keamanan perusahaan, tanpa membutuhkan campur tangan langsung korban. Baca juga: Hacker Korea Utara Retas Uang Kripto untuk Danai Program Senjata Nuklir Birsan memanfaatkan cacat desain unik yang dimiliki oleh layanan open source tersebut. Ia menyebut celah tersebut dengan istilah dependency confusion. Meski sukses menyusup ke sistem keamanan perusahaan, namun Birsan mengaku tidak memiliki niat jahat. Birsan justru melaporkan celah keamanan tersebut kepada seluruh perusahaan yang telah berhasil dibobolnya. Berkat tindakan mulia tersebut, Birsan berhasil mengumpulkan hadiah "bug bounty" sebesar 130.000 dollar AS (sekitar Rp 1,8 miliar), sebagaimana dirangkum KompasTekno dari Bleeping Computer, Senin (15/2/2021). Sejak tahun lalu Upaya peretasan tersebut rupanya telah direncanakan Birsan sejak 2020 lalu. Kala itu, Birsan menyadari bahwa terdapat beberapa file manifest yang tidak tersedia secara publik pada npm package PayPal. Pihak PayPal justru membuat npm package tersebut untuk kemudian digunakan dan disimpan secara pribadi oleh perusahaan. Baca juga: Uang yang Diberikan Google untuk Penemu Bug Pecahkan Rekor Mengetahui hal tersebut, Birsan bertanya-tanya, apakah ia dapat menggunakan package palsu yang dinamai ulang. Package tersebut rencananya bakal di-hosting secara publik untuk menginfeksi server. Untuk menguji hipotesis ini, Birsan kemudian mencari file internal package perusahaan di file manifes repositori GitHub atau di CDN. Selanjutnya, Birsan membuat package versi rakitannya sendiri, namun dengan nama yang serupa dengan file internal package. Package tersebut kemudian ia bagikan melalui layanan npm, PyPI, dan RubyGems. Birsan turut menyatakan bahwa package tersebut tidak mengandung file yang dapat membahayakan sistem keamanan perusahaan. "Package ini dimaksudkan untuk tujuan penelitian keamanan, dan tidak berisi kode berbahaya," sebut Birsan.
+
+
